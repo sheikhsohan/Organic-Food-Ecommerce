@@ -1,5 +1,5 @@
 import BannerMiddle from "./components/BannerMiddle"
-import Blog from "./components/Blog"
+// import Blog from "./components/Blog"
 import Category from "./components/Category"
 import FeatureBreakfastSection from "./components/FeatureBreakfastSection"
 import FeatureFruitsSection from "./components/FeatureFruitsSection"
@@ -18,7 +18,7 @@ const App = () => {
       <FeatureFruitsSection />
       <FeatureBreakfastSection />
       <BannerMiddle />
-      <Blog />
+      {/* <Blog /> */}
       <NewsLetter />
       <FeaturesSection />
       <Footer />
